@@ -17,4 +17,6 @@ return array(
 	'Odnoklassniki' => 'Одноклассники',
 	'LinkedIn' => 'LinkedIn',
 	'GitHub' => 'GitHub',
+	'Instagram' => 'Istagram',
+	'Foursquare' => 'Foursquare',
 );
